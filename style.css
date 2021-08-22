@@ -1,11 +1,8 @@
-* {
-    font-family: 'Roboto Mono', monospace;
-    background-color: thistle;
-}
-
 body {
     height: 310px;
     width: 350px;
+    font-family: 'Roboto Mono', monospace;
+    background-color: thistle;
 }
 
 /* center img */
