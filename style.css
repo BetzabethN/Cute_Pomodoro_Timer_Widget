@@ -1,0 +1,39 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+    background-color: thistle;
+}
+
+body {
+    height: 310px;
+    width: 350px;
+}
+
+/* center img */
+img {
+    width: 180px;
+    height: 130px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.par {
+    font-size: 18px;
+}
+
+.timer {
+    font-size: 35px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 26px;
+}
+
+/* center page horizontally and vertically  */
+div.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} 
