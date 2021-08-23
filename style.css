@@ -23,6 +23,8 @@ img {
 button {
     font-size: 18px;
     border-radius: 12px;
+    display: inline-block;
+    text-align: center;
 }
 
 button:hover {
