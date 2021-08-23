@@ -7,7 +7,7 @@
 body {
     height: 310px;
     width: 350px;
-    
+    margin: auto;
 }
 
 /* center img */
@@ -41,13 +41,6 @@ h1 {
     font-size: 26px;
 }
 
-/* center page horizontally and vertically  */
-div.container {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-} 
 
 .divider {
     width: 10px;
