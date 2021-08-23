@@ -25,6 +25,7 @@ button {
     border-radius: 12px;
     display: inline-block;
     text-align: center;
+    background-color: #BAA1BA;
 }
 
 button:hover {
