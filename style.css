@@ -1,6 +1,7 @@
 * {
     font-family: 'Roboto Mono', monospace;
     background-color: thistle;
+    text-align: center;
 }
 
 body {
@@ -18,8 +19,13 @@ img {
     margin-right: auto;
 }
 
-.par {
+button {
     font-size: 18px;
+    border-radius: 12px;
+}
+
+button:hover {
+    color: #886F88;
 }
 
 .timer {
@@ -38,3 +44,9 @@ div.container {
     left: 50%;
     transform: translate(-50%, -50%);
 } 
+
+.divider {
+    width: 10px;
+    height: auto;
+    display: inline-block;
+}
